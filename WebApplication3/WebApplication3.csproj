@@ -72,6 +72,9 @@
     <Content Include="HtmlPage3.html" />
     <Content Include="HtmlPage4.html" />
     <Content Include="HtmlPage5.html" />
+    <Content Include="HtmlPage6.html" />
+    <Content Include="HtmlPage7.html" />
+    <Content Include="HtmlPage8.html" />
     <Content Include="images\170420124716SPHN.jpg" />
     <Content Include="images\cf6e6f61a973d1bc1f82ddcabfcb833f--arab-fashion-men-fashion.jpg" />
     <Content Include="images\download.jfif" />
